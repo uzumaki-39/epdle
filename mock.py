@@ -122,7 +122,7 @@ except Exception:
 # ║                         GLOBAL CONFIGURATION                            ║
 # ╚══════════════════════════════════════════════════════════════════════════╝
 
-TOKEN            = "8823097674:AAFDQagHq9qhPO9pQ-CF7kck0_bfETAlK4A"
+TOKEN            = "8924543407:AAG735Se0rtdcNCprkngZN-8sViTGmjy4uk"
 OWNER_ID         = 8801932812
 ADMIN_IDS        = [8801932812]
 GC_STORE_CHAT_ID = -1004337097449
